@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "TTHoves";
+  src: url("../fonts/TTHoves/TTHoves-Regular.eot");
+  src: local("TT Hoves Regular"), local("TTHoves-Regular"),
+    url("../fonts/TTHoves/TTHoves-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/TTHoves/TTHoves-Regular.woff2") format("woff2"),
+    url("../fonts/TTHoves/TTHoves-Regular.woff") format("woff"),
+    url("../fonts/TTHoves/TTHoves-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("../fonts/OpenSans/OpenSans-Regular.woff2") format("woff2"),
+    url("../fonts/OpenSans/OpenSans-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("../fonts/SFProDisplay/SFProDisplay-Regular.woff2") format("woff2"),
+    url("../fonts/SFProDisplay/SFProDisplay-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Gothic A1";
+  src: url("../fonts/GothicA1/GothicA1-Regular.woff2") format("woff2"),
+    url("../fonts/GothicA1/GothicA1-Regular.woff") format("woff");
+}
